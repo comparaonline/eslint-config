@@ -1,5 +1,8 @@
 # Change Log
 All notable changes to this project will be documented in this file.
+## v1.0.1 - 05/17/2017
+### Fixed
+- Moved devDependencies to dependencies
 
 ## v1.0.0 - 05/17/2017
 ### Added
