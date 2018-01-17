@@ -1,6 +1,6 @@
 {
   "name": "@comparaonline/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Eslint configuration for ComparaOnline",
   "main": "index.js",
   "keywords": [
@@ -14,10 +14,13 @@
     "url": "git+https://github.com/comparaonline/eslint-config.git"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "11.2.0",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   },
   "peerDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^4.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0"
   }
 }
